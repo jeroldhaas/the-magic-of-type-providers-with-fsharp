@@ -2,3 +2,6 @@ body {
     background-color: #333333;
     color: #000;
 }
+h* {
+    font-family: "LTC Record Title", serif;
+}
