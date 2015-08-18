@@ -1,1 +1,22 @@
-{}
+{
+    // gitbook config
+    "gitbook":          ">=2.2.0",
+
+    // title
+    "title":            "The Ma­gic of­ Type ­Provid­ers wi­th F#",
+    "description":      "A Collection of Type Providers in F#, How to Use Them, and How to Create Them",
+
+    // ISBN TODO: get one
+    "isbn":             "",
+
+    // TODO: these may be deprecated due to multilingual changes
+    "language":         "en",
+    "direction":        "ltr",
+
+    "structure": {
+        "summary":      "toc.md",
+        "readme":       "prologue.md",
+        "langs":        "langs.md",
+        "glossary":     "glossary.md"
+    }
+}
