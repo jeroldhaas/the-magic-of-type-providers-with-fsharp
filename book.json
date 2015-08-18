@@ -7,11 +7,11 @@
     "description":      "A Collection of Type Providers in F#, How to Use Them, and How to Create Them",
 
     // ISBN TODO: get one
-    "isbn":             "",
+    //"isbn":             "",
 
     // TODO: these may be deprecated due to multilingual changes
-    "language":         "en",
-    "direction":        "ltr",
+    //"language":         "en",
+    //"direction":        "ltr",
 
     "structure": {
         "summary":      "toc.md",
