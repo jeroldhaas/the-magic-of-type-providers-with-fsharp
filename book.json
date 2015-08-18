@@ -13,10 +13,12 @@
     //"language":         "en",
     //"direction":        "ltr",
 
-    "structure": {
-        "summary":      "toc.md",
-        "readme":       "prologue.md",
-        "langs":        "langs.md",
-        "glossary":     "glossary.md"
-    }
+    "structure":        {
+                            "summary":      "toc.md",
+                            "readme":       "prologue.md",
+                            "langs":        "langs.md",
+                            "glossary":     "glossary.md"
+                        },
+
+    "plugins":          { ["mathjax", "anchor-navigation"]}
 }
