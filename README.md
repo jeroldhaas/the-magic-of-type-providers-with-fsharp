@@ -1,5 +1,7 @@
 Type Providers to Cover (In no particular order):
-=================================================
+-------------------------------------------------
+
+This is the list of TPs expected to be covered in the book. More will be added throughout the progress of the book.
 
 -	[FSharp.Data](https://fsharp.github.io/FSharp.Data/index.html)
 	-	[CSV Type Provider](https://fsharp.github.io/FSharp.Data/library/CsvProvider.html)
