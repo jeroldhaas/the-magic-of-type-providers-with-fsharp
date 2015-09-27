@@ -11,5 +11,5 @@
                             "glossary":     "glossary.md"
                         },
 
-    "plugins":          { ["mathjax", "anchor-navigation"] }
+    "plugins":          ["mathjax", "anchor-navigation"]
 }
